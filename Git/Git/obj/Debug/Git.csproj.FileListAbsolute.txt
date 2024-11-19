@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Git\Git\bin\Debug\Git.exe.config
+C:\Users\user\source\repos\Git\Git\bin\Debug\Git.exe
+C:\Users\user\source\repos\Git\Git\bin\Debug\Git.pdb
+C:\Users\user\source\repos\Git\Git\obj\Debug\Git.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Git\Git\obj\Debug\Git.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Git\Git\obj\Debug\Git.exe
+C:\Users\user\source\repos\Git\Git\obj\Debug\Git.pdb
